@@ -1,6 +1,6 @@
 # Web Scraping Project
 
-![Project Preview](project_preview.png)
+![Screenshot 2023-07-30 001020](https://github.com/TheSupreet/webscrap-post/assets/119513422/91d5b041-9076-47e8-9bdf-ca5e9511cd5d)
 
 This project is a web scraping application that extracts information from a website and allows users to upload and download data easily through a web page.
 
