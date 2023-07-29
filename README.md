@@ -6,7 +6,7 @@ This project is a web scraping application that extracts information from a webs
 
 ## Overview
 
-Web scraping is a technique used to extract data from websites. This project is built using Python and Django, and it pulls information from a popular news website to display on a user-friendly web page. Users can also upload their files and download data with ease.
+Web scraping is a technique used to extract data from websites. This project is built using Python and Flask, and it pulls information from a popular news website to display on a user-friendly web page. Users can also upload their files and download data with ease.
 
 ## Features
 
